@@ -1,0 +1,9 @@
+[
+{
+  "model": "breweries.brewery",
+  "pk": 1,
+  "fields": {
+    "name": "Brixton"
+  }
+}
+]
