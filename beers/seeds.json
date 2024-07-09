@@ -1,0 +1,62 @@
+[
+{
+  "model": "beers.beer",
+  "pk": 1,
+  "fields": {
+    "name": "Reliance",
+    "style": "Pale Ale",
+    "description": "Yummy Brixton Pale Ale",
+    "abv": 4.2,
+    "brewery": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "beers.beer",
+  "pk": 2,
+  "fields": {
+    "name": "Mangoes to Lagos",
+    "style": "Mango Pale",
+    "description": "Is Fruity",
+    "abv": 4.2,
+    "brewery": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "beers.beer",
+  "pk": 3,
+  "fields": {
+    "name": "Alternating Currants",
+    "style": "Mixed Berry Sour",
+    "description": "Tangy cherries and sweet red berries take turns giving you a full sensory buzz of hedgerow aromas and fresh pick-your-own fruity flavours. Switch it up for a gloriously alternative summer taste experience.",
+    "abv": 4.0,
+    "brewery": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "beers.beer",
+  "pk": 5,
+  "fields": {
+    "name": "Alternating Currants test",
+    "style": "Mixed Berry Sour",
+    "description": "Tangy cherries and sweet red berries take turns giving you a full sensory buzz of hedgerow aromas and fresh pick-your-own fruity flavours. Switch it up for a gloriously alternative summer taste experience.",
+    "abv": 4.0,
+    "brewery": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "beers.beer",
+  "pk": 7,
+  "fields": {
+    "name": "Alternating Currants test1",
+    "style": "Mixed Berry Sour",
+    "description": "Tangy cherries and sweet red berries take turns giving you a full sensory buzz of hedgerow aromas and fresh pick-your-own fruity flavours. Switch it up for a gloriously alternative summer taste experience.",
+    "abv": 4.0,
+    "brewery": 1,
+    "owner": 2
+  }
+}
+]
